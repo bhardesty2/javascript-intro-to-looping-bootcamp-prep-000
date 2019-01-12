@@ -6,7 +6,7 @@ function forLoop(array) {
     array.push('I am ${i} strange loops.')
   }
 }
-return array[1];
+return array[else];
 }
 
 function whileLoop(n) {
